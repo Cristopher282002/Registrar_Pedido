@@ -1,0 +1,110 @@
+﻿@model IEnumerable<ProyectoPedidos.Models.Pedidos>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        font-family: Roboto;
+    }
+
+    .background-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/imagenes/fondo.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: -1;
+        filter: blur(5px);
+    }
+
+    .custom-table {
+        width: 100%;
+        border-radius: 30px;
+        overflow: hidden;
+        box-shadow: 4px 4px 10px 0px black;
+        background-color: white;
+        margin-bottom: 20px;
+    }
+
+        .custom-table th,
+        .custom-table td {
+            border: none;
+            text-align: center;
+            padding: 8px;
+        }
+
+        .custom-table thead {
+            background-color: #282321;
+            color: white;
+            vertical-align: middle;
+        }
+
+        .custom-table tbody {
+            color: #555555;
+        }
+
+    .custom-btn {
+        border-radius: 30px;
+    }
+</style>
+
+<div class="background-container"></div>
+<div class="container pt-3">
+
+    <div class="title-block text-center" style="background-color:#282321; padding: 20px; border-radius: 10px; box-shadow: 4px 4px 10px 0px black;">
+        <h2 style="color:white; font-weight:900; margin: 0;">LISTA DE PEDIDOS</h2>
+    </div>
+
+    <br />
+    <div class="col-6">
+        <a asp-controller="Pedidos" asp-action="Crear" class="btn btn-primary custom-btn">NUEVO PEDIDO</a>
+    </div>
+
+    <br />
+
+    @if (Model.Count() > 0)
+    {
+        <div class="table-responsive">
+            <table class="custom-table">
+                <thead>
+                    <tr>
+                        <th>NOMBRE</th>
+                        <th>APELLIDO</th>
+                        <th>TELÉFONO</th>
+                        <th>DESCRIPCIÓN</th>
+                        <th>MONTO</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Nombre</td>
+                            <td>@item.Apellido</td>
+                            <td>@item.Telefono</td>
+                            <td>@item.Descripcion</td>
+                            <td>@item.Monto</td>
+                            <td>
+                                <div class="btn-group" role="group">
+                                    <a asp-controller="Pedidos" asp-action="Editar" asp-route-Id="@item.Id" class="btn btn-primary mx-2 custom-btn">Editar</a>
+                                    <a asp-controller="Pedidos" asp-action="Eliminar" asp-route-Id="@item.Id" class="btn btn-danger mx-2 custom-btn">Borrar</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <p>No hay registros de Pedidos</p>
+    }
+
+</div>

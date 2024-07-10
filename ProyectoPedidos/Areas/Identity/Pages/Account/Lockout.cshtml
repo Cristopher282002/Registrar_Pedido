@@ -1,0 +1,36 @@
+﻿@page
+@model LockoutModel
+@{
+    ViewData["Title"] = "Locked out";
+}
+
+<style>
+    body {
+        background-image: linear-gradient(to bottom right, #FCCE32, #FF2B5B);
+        font-family: Roboto;
+    }
+
+    h1, h2, h3, p, span {
+        color: white;
+    }
+
+    .background-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/imagenes/fondo.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: -1;
+        filter: blur(5px);
+    }
+</style>
+
+<header>
+
+    <div class="background-container"></div>
+    <h1 class="text-danger">@ViewData["Title"]</h1>
+    <p class="text-danger">This account has been locked out, please try again later.</p>
+</header>

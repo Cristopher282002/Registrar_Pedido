@@ -1,0 +1,126 @@
+﻿@model ProyectoPedidos.Models.Pedidos
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-image: linear-gradient(to bottom right, #FCCE32, #FF2B5B);
+        font-family: Roboto;
+    }
+
+    .custom-form {
+        text-align: center;
+    }
+
+    .custom-border {
+        box-shadow: 4px 4px 10px 0px black;
+        background-color: white;
+        border-radius: 30px;
+        margin-top: 30px;
+        padding: 20px;
+    }
+
+    .custom-label {
+        color: black;
+        font-weight: 900;
+    }
+
+    .custom-input {
+        text-align: center;
+    }
+
+    .custom-btn {
+        border-radius: 30px;
+    }
+
+    .background-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/imagenes/fondo.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: -1;
+        filter: blur(5px);
+    }
+</style>
+
+<div class="background-container"></div>
+<form method="post" asp-action="Eliminar" class="custom-form">
+    <div class="border p-3 custom-border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group row">
+            <h2 class="custom-label">¿Estás seguro de eliminar este pedido?</h2>
+        </div>
+        <br />
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="form-group">
+                        <label asp-for="Nombre" class="form-label custom-label">Nombre</label>
+                        <input asp-for="Nombre" class="form-control custom-input" placeholder="Ingrese nombre" readonly />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="form-group">
+                        <label asp-for="Apellido" class="form-label custom-label">Apellido</label>
+                        <input asp-for="Apellido" class="form-control custom-input" placeholder="Ingrese apellido" readonly />
+                        <span asp-validation-for="Apellido" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="form-group">
+                        <label asp-for="Telefono" class="form-label custom-label">Teléfono</label>
+                        <input asp-for="Telefono" class="form-control custom-input" placeholder="Ingrese teléfono" readonly />
+                        <span asp-validation-for="Telefono" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="form-group">
+                        <label asp-for="Descripcion" class="form-label custom-label">Descripción</label>
+                        <input asp-for="Descripcion" class="form-control custom-input" placeholder="Ingrese descripción" readonly />
+                        <span asp-validation-for="Descripcion" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="form-group">
+                        <label asp-for="Monto" class="form-label custom-label">Monto</label>
+                        <input asp-for="Monto" class="form-control custom-input" placeholder="Ingrese monto" readonly />
+                        <span asp-validation-for="Monto" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary custom-btn">Eliminar</button>
+                    </div>
+                    <br />
+                    <div class="d-grid gap-2">
+                        <a asp-controller="Pedidos" asp-action="Index" class="btn btn-primary custom-btn" style="background-color:#33B117; border-color: #33B117;">Regresar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

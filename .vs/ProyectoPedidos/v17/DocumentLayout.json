@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TRABAJOS C#\\ProyectoPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\views\\pedidos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\views\\pedidos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\views\\pedidos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\views\\pedidos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\views\\pedidos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\views\\pedidos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|d:\\trabajos c#\\proyectopedidos\\proyectopedidos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0ACB91D-2F08-4719-A103-0A8234DE580B}|ProyectoPedidos\\ProyectoPedidos.csproj|solutionrelative:proyectopedidos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoPedidos\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:16:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:08:35.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:08:23.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:07:10.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:06:53.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:06:44.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:04:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:04:54.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Views\\Pedidos\\Eliminar.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Eliminar.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Views\\Pedidos\\Eliminar.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:41:54.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Controllers\\PedidosController.cs",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "ProyectoPedidos\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:03:50.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:05:13.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:08:51.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Models\\Pedidos.cs",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Models\\Pedidos.cs",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Models\\Pedidos.cs",
+              "RelativeToolTip": "ProyectoPedidos\\Models\\Pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:51:43.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:08:59.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:09:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:09:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:06:30.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:06:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:06:09.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:05:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:05:48.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:05:32.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:05:08.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:05:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T01:05:03.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Views\\Pedidos\\Editar.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Views\\Pedidos\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:37:49.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Crear.cshtml",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Views\\Pedidos\\Crear.cshtml",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Views\\Pedidos\\Crear.cshtml",
+              "RelativeToolTip": "ProyectoPedidos\\Views\\Pedidos\\Crear.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:16:20.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Program.cs",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Program.cs",
+              "RelativeToolTip": "ProyectoPedidos\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:00:11.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoPedidos\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:56:22.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoPedidos\\appsettings.json",
+              "ToolTip": "D:\\TRABAJOS C#\\ProyectoPedidos\\ProyectoPedidos\\appsettings.json",
+              "RelativeToolTip": "ProyectoPedidos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T22:55:14.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
